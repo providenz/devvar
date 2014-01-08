@@ -1,0 +1,22 @@
+{% extends 'base.html' %}
+{% block main %}
+<ul class="no-bullet">
+    {% for article in articles_page.object_list %}
+    <li>
+        <article>
+            <header><h2 class="entry-title"><a href="{{ SITEURL }}/{{ article.url }}" rel="bookmark"
+                                               title="Permalink to {{ article.title|striptags }}">{{ article.title }}
+            </a></h2></header>
+            <footer class="post-info">
+                <p class="published" title="{{ article.date.isoformat() }}"> {{ article.locale_date }} par {{article.author}}</p>
+
+            </footer>
+            <div class="entry-content"> {{ article.summary }}</div>
+        </article>
+    </li>
+    {% if not loop.last %}
+    <hr/>
+    {% endif %}
+    {% endfor %}
+</ul>
+{% endblock %}
