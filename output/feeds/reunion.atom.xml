@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>/dev/var</title><link href="http://devvar.org/" rel="alternate"></link><link href="http://devvar.org/feeds/reunion.atom.xml" rel="self"></link><id>http://devvar.org/</id><updated>2013-10-29T10:00:00+01:00</updated><entry><title>/dev/var/2 - Réunion de novembre 2013</title><link href="http://devvar.org/devvar2.html" rel="alternate"></link><updated>2013-10-29T10:00:00+01:00</updated><author><name>Laurent Paoletti</name></author><id>tag:devvar.org,2013-10-29:devvar2.html</id><summary type="html">&lt;p&gt;Rendez-vous jeudi 21 Novembre à 19H00, à la CantinebyTVT, maison des technologies&lt;/p&gt;
+&lt;p&gt;Horaires: 19h00 - 22h00&lt;/p&gt;
+&lt;p&gt;Cette édition est sponsorisée par :&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://fr.tuto.com"&gt;&lt;img alt="tuto.com" src="/static/images/devvar2/tuto.jpg" /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Nous attendons également des propositions pour des lightning talks. &lt;a href="/pages/participer.html"&gt;Lancez-vous !&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;Programme&lt;/h2&gt;
+&lt;h3&gt;Conférences&lt;/h3&gt;
+&lt;h4&gt;Retour d'expérience sur l'accélération d'un site International &lt;small&gt;par Jean-Pierre Vincent&lt;/small&gt;&lt;/h4&gt;
+&lt;p&gt;Faire en sorte que ses pages s'affichent plus vite dans toutes les situations, c'est une spécialité de développeur Web parfois techniquement très complexe.
+À travers ce retour d'expérience sur un gros site international, on va voir qu'avec peu de techniques et beaucoup de méthode, on peut améliorer sensiblement l'expérience utilisateurs.&lt;/p&gt;
+&lt;h4 class='subheader'&gt;Jean-Pierre Vincent&lt;/h4&gt;
+
+&lt;p&gt;Expert technique HTML5 / Perfs indépendant. Parigo mondialement connu à la Seyne.&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://braincracking.org"&gt;Blog technique&lt;/a&gt; · &lt;a href="https://twitter.com/theystolemynick"&gt;Twitter&lt;/a&gt; ·  &lt;a href="http://fr.linkedin.com/in/jeanpierrevincent"&gt;LinkedIn&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+
+&lt;h4&gt;Découverte de l'accessibilité numérique  &lt;small&gt;par Steven Mouret&lt;/small&gt;&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Définition de l'accessibilité&lt;/li&gt;
+&lt;li&gt;Les différents types de handicap&lt;/li&gt;
+&lt;li&gt;Les aides techniques&lt;/li&gt;
+&lt;li&gt;Les recommandations (WCAG) et les référentiels en France (Accessiweb, RGAA)&lt;/li&gt;
+&lt;li&gt;Les idées reçues&lt;/li&gt;
+&lt;li&gt;Les avantages
+*Le futur avec HTML5 et ARIA (Accessible Rich Internet Applications)
+&lt;h4 class='subheader'&gt;Steven Mouret&lt;/h4&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Steven est développeur front-end, expert AccessiWeb spécialisé dans les
+standards du web chez Stratis.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://twitter.com/StevenMouret"&gt;Twitter&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+
+&lt;h4&gt;The Agile Inception Deck &lt;small&gt;par Cedric L'homme&lt;/small&gt;&lt;/h4&gt;
+&lt;p&gt;Présentation et retour d'experience sur le "Agile Inception Deck" tiré du livre "The Agile Samurai : How Agile Masters Deliver Great Software" de Jonathan Rasmusson.
+10 questions à poser avant de commencer un projet.&lt;/p&gt;
+&lt;h4 class='subheader'&gt;Cédric L'homme&lt;/h4&gt;
+
+&lt;p&gt;Presque 20 ans de développement et toutes ses dents. Malgré des postes qui font réver les djeun's (devops, sécurité et même management...), il est toujours revenu au code.
+&lt;hr&gt;&lt;/p&gt;
+&lt;h4&gt;D'une feuille blanche à une affaire rentable &lt;small&gt;par Jérémy Lecour&lt;/small&gt;&lt;/h4&gt;
+&lt;p&gt;Ça nous a pris 4 ans pour grandir d'une idée ambitieuse vers une boîte
+rentable, avec une très petite équipe et peu de ressources. Je
+raconterai comment faire "juste assez" et "juste bien", avec une
+touche de bonnes pratiques, beaucoup de motivation et pas mal de Ruby,
+nous avons réussi à fabriquer un produit à forte croissance et une
+équipe heureuse.
+&lt;h4 class='subheader'&gt;Jérémy Lecour&lt;/h4&gt;&lt;/p&gt;
+&lt;p&gt;Jérémy est développeur web depuis plus de 12 ans, passionné par tout
+ce qui touche au web et toujours curieux de nouvelles choses à
+apprendre et utiliser pour le boulot ou les hobbies. Depuis 4 ans il
+guide une petite équipe qui utilise un gros mélange de technologies
+bien classiques ou toutes récentes, pour développer un site qui aide à
+la recherche et la réservation d'hôtel en ligne. Jérémy est
+facilitateur de Code Retreat et co-organisateur du Provence Linux User
+Group (PLUG) et du PastisRb (le groupe des utilisateurs de Ruby de
+Marseille).&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://jeremy.wordpress.com"&gt;Site perso&lt;/a&gt; · &lt;a href="http://twitter.com/jlecour"&gt;Twitter&lt;/a&gt;&lt;/p&gt;
+&lt;h3&gt;Lightning Talks (5mn)&lt;/h3&gt;
+&lt;h4&gt;Automatisation d'un workflow de développement avec Vagrant &lt;small&gt;par Fedir Rykhtik&lt;/small&gt;&lt;/h4&gt;
+&lt;p&gt;Nous verrons les éléments essentiels de mise en place de Vagrant,
+un logiciel open-source pour la création et la configuration des environnements de développement virtuels. Vagrant vous permet de créer et de gérer des environnements virtuels personnalisés à vos besoins en utilisant des technologies de configuration automatisées comme Chef, Salt, Puppet et Shell scripts.&lt;/p&gt;
+&lt;h4&gt;Robustifier la production de code C/C++, outillage et stratégie &lt;small&gt;par Manuel Minana&lt;/small&gt;&lt;/h4&gt;
+&lt;p&gt;Grâce à Jenkins, Valgrind, Gcov/lcov, CMake, GCC/Clang flag de compilation&lt;/p&gt;
+&lt;h4&gt;Comment organiser une conférence, petit LT dont vous êtes le héros &lt;small&gt;par Jean-Michel Armand&lt;/small&gt;&lt;/h4&gt;
+&lt;p&gt;Je co-organise depuis quelques années un certain nombre de conférences.
+Ce LT sera l'occasion de vous faire partager mon expérience d'organisateur et vous donner envie, peut-être, d'organiser une
+conférence à votre tour.&lt;/p&gt;</summary></entry><entry><title>/dev/var/1 - Retour sur notre première réunion</title><link href="http://devvar.org/retour-devvar1.html" rel="alternate"></link><updated>2013-10-25T10:00:00+02:00</updated><author><name>Laurent Paoletti</name></author><id>tag:devvar.org,2013-10-25:retour-devvar1.html</id><summary type="html">&lt;p&gt;&lt;img alt="/dev/var/1" src="/static/images/devvar1/devvar1.jpg" /&gt;&lt;/p&gt;
+&lt;p&gt;C'est avec beaucoup de retard que nous publions un petit retour sur notre première édition.&lt;/p&gt;
+&lt;p&gt;Tout d'abord un grand merci. Nous avons été très positivement surpris par l'affluence, près d'une quarantaine (une tretaine selon la police) de personnes
+sont venues assister à cette soirée.
+Les conférences données par nos 3 intervenants ont suscité beaucoup de questions et d'échanges et ont permis à chacun de (re)découvrir des domaines ou technologies.
+La discussion s'est poursuivie autour d'un buffet, puis, fermeture oblige, les plus motivés ont terminé la soirée dans un bar du centre ville.&lt;/p&gt;
+&lt;h4&gt;Django &lt;small&gt;par Jean-Michel Armand&lt;/small&gt;&lt;/h4&gt;
+&lt;p&gt;&lt;img alt="/dev/var/1" src="/static/images/devvar1/devvar1-jean-michel-armand.jpg" /&gt;
+&lt;script async class="speakerdeck-embed" data-id="96cfa3a022a30131b40626bc17c79520" data-ratio="1.33507170795306" src="//speakerdeck.com/assets/embed.js"&gt;&lt;/script&gt;&lt;/p&gt;
+&lt;h4&gt;Le monde de TYPO3 &lt;small&gt;par Fedir Rykhtik&lt;/small&gt;&lt;/h4&gt;
+&lt;p&gt;&lt;img alt="/dev/var/1" src="/static/images/devvar1/devvar1-fedir-rykhtik.jpg" /&gt;
+&lt;script async class="speakerdeck-embed" data-id="d5d9d6a022a30131eef332ca1e0f8492" data-ratio="1.33507170795306" src="//speakerdeck.com/assets/embed.js"&gt;&lt;/script&gt;&lt;/p&gt;
+&lt;h4&gt;(In)sécurité des applications web par &lt;small&gt;Cyril Ceresola&lt;/small&gt;&lt;/h4&gt;
+&lt;p&gt;&lt;img alt="/dev/var/1" src="/static/images/devvar1/devvar1-cyril-ceresola.jpg" /&gt;&lt;/p&gt;
+&lt;script async class="speakerdeck-embed" data-id="6d22ac3027d201315b9e527504a8b9af" data-ratio="1.41436464088398" src="//speakerdeck.com/assets/embed.js"&gt;&lt;/script&gt;
+
+&lt;p&gt;Encore merci.&lt;/p&gt;
+&lt;p&gt;Cette édition était sponsorisée par &lt;a href="http://www.tvt.fr/"&gt;TVT&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="Toulon Var Technologie" src="/static/images/devvar1/tvt.png" /&gt;&lt;/p&gt;</summary></entry><entry><title>/dev/var/1 - Première réunion</title><link href="http://devvar.org/devvar1.html" rel="alternate"></link><updated>2013-09-27T10:00:00+02:00</updated><author><name>Laurent Paoletti</name></author><id>tag:devvar.org,2013-09-27:devvar1.html</id><summary type="html">&lt;p&gt;Rendez-vous jeudi 19 septembre à 19H00, à la CantinebyTVT, maison des technologies&lt;/p&gt;
+&lt;p&gt;Horaires: 19h00 - 22h00&lt;/p&gt;
+&lt;p&gt;Apéritif offert par TVT innovation&lt;/p&gt;
+&lt;h3&gt;Programme&lt;/h3&gt;
+&lt;h4&gt;Le monde de TYPO3 &lt;small&gt;par Fedir Rykhtik&lt;/small&gt;&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Introduction au système&lt;/li&gt;
+&lt;li&gt;Présentation de la communauté&lt;/li&gt;
+&lt;li&gt;Création de sites institutionnels avec TYPO3&lt;/li&gt;
+&lt;li&gt;Comparaison avec d'autres CMS open-source du marché&lt;/li&gt;
+&lt;li&gt;Questions / Réponses&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 class='subheader'&gt;Fedir Rykhtik&lt;/h4&gt;
+
+&lt;p&gt;Fedir Rykhtik est un passionné d'open source et expert Web à Stratis (Toulon, France), où il a construit des grands sites sous TYPO3 pour le gouvernement français.&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://fedir.github.io/"&gt;Github&lt;/a&gt; · &lt;a href="https://twitter.com/FedirFR"&gt;Twitter&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+
+&lt;h4&gt;(In)sécurité des applications web par &lt;small&gt;Cyril Ceresola&lt;/small&gt;&lt;/h4&gt;
+&lt;p&gt;Après quelques rappels de vocabulaire et de contexte, les principes de défenses ainsi que le management de la sécurité tout au ong d'un projet applicatifs seront évoqués.&lt;/p&gt;
+&lt;h4 class='subheader'&gt;Cyril Ceresola&lt;/h4&gt;
+
+&lt;p&gt;Cyril Ceresola est en charge des systèmes au sein du Port de Marseille (GPMM) depuis plusieurs année avec un gout particulièrement prononcé pour la SSI et la gestion des risques.&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://fr.linkedin.com/pub/cyril-ceresola/1a/133/276"&gt;Linkedin&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+
+&lt;h4&gt;Django &lt;small&gt;par Jean-Michel Armand&lt;/small&gt;&lt;/h4&gt;
+&lt;p&gt;15 minutes pour vous présenter Django, le plus utilisé des framework web python (et avouons le, sans fausse modestie, le meilleur). 15 minutes pour vous parler de sa philosophie, de sa communauté et de son écosystème. 15 minutes pour vous toucher du doigt tout ce que l'on peut faire en django. Le but avoué de cette présentation est de faire en sorte que même si vous êtes le plus accro des développeur Ruby ou le plus fanatique des codeurs php, une fois le dernier slide passé, vous vous mettiez à rêver de magnifiques aventures webesque à dos de poney rose !&lt;/p&gt;
+&lt;h4 class='subheader'&gt;Jean-Michel Armand&lt;/h4&gt;
+
+&lt;p&gt;Djangonaute multiclassé commercial et chef d'entreprise, Jean-Michel est un geek orchestre qui lorsque qu'il ne peste après les retards de son TGV, aide à l'organisation de conférences, disserte sur les jeux vidéos ou achète des nom de domaines qu'il n'utilisera jamais.
+Grand amoureux des bières belges et du cassoulet, son tour de taille lui permet pour l'instant de ne pas se vêtir uniquement de braies à rayures et de profiter de sa collection de tee-shirts aux références cryptiques. Il paraîtrait qu'il est tombé dans un chaudron de potion magique étant petit et que grâce à cela, il a un talent rare pour lancer D20 et D100 (mais pas les menhirs).&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://twitter.com/mrjmad"&gt;Twitter&lt;/a&gt; · &lt;a href="https://twitter.com/mrjmad"&gt;site perso&lt;/a&gt;&lt;/p&gt;</summary></entry></feed>

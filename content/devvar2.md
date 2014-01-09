@@ -92,7 +92,7 @@ un logiciel open-source pour la création et la configuration des environnements
 
 #### Robustifier la production de code C/C++, outillage et stratégie <small>par Manuel Minana</small>
 Grâce à Jenkins, Valgrind, Gcov/lcov, CMake, GCC/Clang flag de compilation
-
+<script async class="speakerdeck-embed" data-id="fa7e87d05ba001317a1c324f8be9e4a6" data-ratio="1.33507170795306" src="//speakerdeck.com/assets/embed.js"></script>
 
 ####  Comment organiser une conférence, petit LT dont vous êtes le héros <small>par Jean-Michel Armand</small>
 
