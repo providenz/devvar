@@ -26,7 +26,7 @@
       <file leaf-file-name="whoami.md" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/content/pages/whoami.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="14" column="0" selection-start="443" selection-end="443" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="480">
+            <state line="14" column="0" selection-start="443" selection-end="443" vertical-scroll-proportion="0.0" vertical-offset="336" max-vertical-offset="480">
               <folding />
             </state>
           </provider>
@@ -35,7 +35,7 @@
       <file leaf-file-name="article_infos.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/theme/devvar/templates/article_infos.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="19" selection-start="375" selection-end="375" vertical-scroll-proportion="-6.967742" vertical-offset="0" max-vertical-offset="432">
+            <state line="9" column="19" selection-start="375" selection-end="375" vertical-scroll-proportion="0.0" vertical-offset="216" max-vertical-offset="432">
               <folding />
             </state>
           </provider>
@@ -53,18 +53,34 @@
       <file leaf-file-name="fabfile.py" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/fabfile.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="26" column="14" selection-start="741" selection-end="741" vertical-scroll-proportion="-24.96" vertical-offset="0" max-vertical-offset="1584">
-              <folding>
-                <element signature="e#0#24#0" expanded="true" />
-              </folding>
+            <state line="26" column="14" selection-start="741" selection-end="741" vertical-scroll-proportion="0.0" vertical-offset="624" max-vertical-offset="1584">
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="cr-devvar2.md" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="cr-devvar2.md" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/content/cr-devvar2.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="25" column="42" selection-start="975" selection-end="975" vertical-scroll-proportion="0.44676098" vertical-offset="0" max-vertical-offset="1343">
+            <state line="9" column="0" selection-start="231" selection-end="231" vertical-scroll-proportion="0.0" vertical-offset="216" max-vertical-offset="1200">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="devvar3.md" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/content/devvar3.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="34" column="54" selection-start="1135" selection-end="1135" vertical-scroll-proportion="0.6554217" vertical-offset="0" max-vertical-offset="1872">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="devvar2.md" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/content/devvar2.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="91" column="0" selection-start="3405" selection-end="3903" vertical-scroll-proportion="0.0" vertical-offset="1299" max-vertical-offset="2544">
               <folding />
             </state>
           </provider>
@@ -80,7 +96,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/theme/devvar/templates/article-info.html" />
         <option value="$PROJECT_DIR$/theme/devvar/templates/page.html" />
         <option value="$PROJECT_DIR$/content/devvar1.md" />
         <option value="$PROJECT_DIR$/content/pages/sponsors.md" />
@@ -96,13 +111,14 @@
         <option value="$PROJECT_DIR$/theme/devvar/templates/base.html" />
         <option value="$PROJECT_DIR$/content/devvar2.md" />
         <option value="$PROJECT_DIR$/content/cr-devvar2.md" />
+        <option value="$PROJECT_DIR$/content/devvar3.md" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
     <option name="y" value="22" />
     <option name="width" value="2560" />
-    <option name="height" value="1414" />
+    <option name="height" value="1329" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -130,7 +146,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -279,6 +294,28 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="devvar3" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="devvar" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="devvar" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="content" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="images" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="devvar2" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -307,6 +344,7 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -315,8 +353,8 @@
     <property name="options.lastSelected" value="preferences.keymap" />
     <property name="FullScreen" value="false" />
     <property name="DefaultHtmlFileTemplate" value="Html5" />
-    <property name="options.searchVisible" value="true" />
     <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
   </component>
   <component name="PyConsoleOptionsProvider">
     <option name="myPythonConsoleState">
@@ -420,9 +458,6 @@
       <option name="PARAMETERS" value="" />
       <method />
     </configuration>
-    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug" singleton="true">
-      <method />
-    </configuration>
     <configuration default="true" type="tests" factoryName="Unittests">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -444,6 +479,9 @@
       <option name="PUREUNITTEST" value="true" />
       <option name="PARAMS" value="" />
       <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug" singleton="true">
       <method />
     </configuration>
     <configuration default="true" type="tests" factoryName="Doctests">
@@ -515,7 +553,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="22" width="2560" height="1414" extended-state="6" />
+    <frame x="0" y="22" width="2560" height="1329" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -553,9 +591,9 @@
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.19492188" sideWeight="0.67008984" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
     </layout-to-restore>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -570,18 +608,6 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/theme/devvar/static/css/foundation.min.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="0" selection-start="163841" selection-end="163841" vertical-scroll-proportion="0.0" vertical-offset="24" max-vertical-offset="168">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/theme/devvar/templates/article.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="92" selection-start="373" selection-end="373" vertical-scroll-proportion="0.0" vertical-offset="192" max-vertical-offset="600" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/theme/devvar/templates/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="19" column="0" selection-start="736" selection-end="736" vertical-scroll-proportion="-14.709678" vertical-offset="0" max-vertical-offset="672" />
@@ -604,9 +630,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/theme/devvar/templates/base.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="42" column="75" selection-start="1192" selection-end="1192" vertical-scroll-proportion="0.07317073" vertical-offset="912" max-vertical-offset="3192">
-          <folding />
-        </state>
+        <state line="42" column="75" selection-start="1192" selection-end="1192" vertical-scroll-proportion="0.07317073" vertical-offset="912" max-vertical-offset="3192" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/theme/devvar/templates/page.html">
@@ -618,18 +642,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/fabfile.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="26" column="14" selection-start="741" selection-end="741" vertical-scroll-proportion="-24.96" vertical-offset="0" max-vertical-offset="1584">
-          <folding>
-            <element signature="e#0#24#0" expanded="true" />
-          </folding>
+        <state line="26" column="14" selection-start="741" selection-end="741" vertical-scroll-proportion="0.0" vertical-offset="624" max-vertical-offset="1584">
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/content/cr-devvar1.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="43" selection-start="868" selection-end="937" vertical-scroll-proportion="0.3216679" vertical-offset="0" max-vertical-offset="1343">
-          <folding />
-        </state>
+        <state line="18" column="43" selection-start="868" selection-end="937" vertical-scroll-proportion="0.3216679" vertical-offset="0" max-vertical-offset="1343" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/content/pages/whoami.md">
@@ -641,35 +661,43 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/theme/devvar/static/css/foundation.min.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="0" selection-start="163841" selection-end="163841" vertical-scroll-proportion="0.018045112" vertical-offset="0" max-vertical-offset="1330">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/content/devvar2.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="85" column="0" selection-start="3405" selection-end="4577" vertical-scroll-proportion="0.6210526" vertical-offset="1214" max-vertical-offset="2544">
-          <folding />
-        </state>
+        <state line="1" column="0" selection-start="163841" selection-end="163841" vertical-scroll-proportion="0.018045112" vertical-offset="0" max-vertical-offset="1330" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/content/pages/about.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="23" column="103" selection-start="1180" selection-end="1180" vertical-scroll-proportion="0.4110201" vertical-offset="0" max-vertical-offset="1343">
-          <folding />
-        </state>
+        <state line="23" column="103" selection-start="1180" selection-end="1180" vertical-scroll-proportion="0.4110201" vertical-offset="0" max-vertical-offset="1343" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/theme/devvar/templates/article_infos.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="19" selection-start="375" selection-end="375" vertical-scroll-proportion="-6.967742" vertical-offset="0" max-vertical-offset="432">
+        <state line="9" column="19" selection-start="375" selection-end="375" vertical-scroll-proportion="0.0" vertical-offset="216" max-vertical-offset="432">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/content/cr-devvar2.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="25" column="42" selection-start="975" selection-end="975" vertical-scroll-proportion="0.44676098" vertical-offset="0" max-vertical-offset="1343">
+        <state line="9" column="0" selection-start="231" selection-end="231" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1200">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/content/images/devvar3/crazylog.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/content/devvar2.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="91" column="0" selection-start="3405" selection-end="3903" vertical-scroll-proportion="0.0" vertical-offset="1299" max-vertical-offset="2544">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/content/devvar3.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="34" column="54" selection-start="1135" selection-end="1135" vertical-scroll-proportion="0.6554217" vertical-offset="0" max-vertical-offset="1872">
           <folding />
         </state>
       </provider>

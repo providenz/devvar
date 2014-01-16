@@ -8,9 +8,6 @@ Summary: retour sur /dev/var/2
 ![/dev/var/2](/static/images/devvar1/devvar2.jpg)
 
 
-
-
-
 #### Retour d'expérience sur l'accélération d'un site International <small>par Jean-Pierre Vincent</small>
 ![/dev/var/2](/static/images/devvar2/jeanpierre-vincent.jpg)
 
