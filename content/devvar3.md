@@ -7,6 +7,7 @@ Summary: /dev/var/3
 
 
 Rendez-vous jeudi 30 janvier 2014 à 19H00, à la CantinebyTVT, maison des technologies
+[Inscriptions gratuites mais obigatoires](http://www.eventbrite.fr/e/billets-devvar3-rencontre-des-developpeurs-varois-10116050379)
 
 Horaires: 19h00 - 22h00
 
@@ -42,18 +43,15 @@ retranscription fidèle du domaine applicatif.
 <h4 class='subheader'>Boris Guéry</h4>
 
 Boris Guéry, directeur technique et associé au sein de la société
-Azurgate,
-éditrice de l'application Se Coucher Moins Bête. Également membre
+Azurgate, éditrice de l'application Se Coucher Moins Bête. Également membre
 du collectif The Big Brains Company. Sur le web depuis 1997, il aime
-la bière mais aussi
-l'architecture web et les bonnes pratiques. Passionné de R&D mais
-également pragmatique,
-il développe principalement en PHP à l'aide du framework Symfony 2. Il
-a depuis acquis
-une véritable expertise dans la mise en place d'architecture scalable
-sur des applications
-à forte charge
+la bière mais aussi l'architecture web et les bonnes pratiques. Passionné de R&D mais
+également pragmatique, il développe principalement en PHP à l'aide du framework Symfony 2. Il
+a depuis acquis une véritable expertise dans la mise en place d'architecture scalable
+sur des applications à forte charge
 
+
+[Site perso](http://borisguery.com/)
 
 #### ADOBE : Autopsie d'une fuite de données… <small>par Cyril Ceresola</small>
 
@@ -66,8 +64,37 @@ Au travers de differentes analyses, nous aborderons les enjeux, risques, effets 
 
 Cyril Ceresola est en charge des systèmes au sein du Port de Marseille (GPMM) avec un gout particulièrement prononcé pour la sécurité applicative et la gestion des risques IT
 
+[Linkedin](http://fr.linkedin.com/pub/cyril-ceresola/1a/133/276)
+
+
+
+#### Introduction au SDR <small>par Julien L.</small>
+
+Cette présentation porte sur l'utilisation détournée d'un récepteur TNT,
+ou sur comment faire du SDR (Software Defined Radio) à prix cassé en
+cette période de soldes d'hiver. Nous présenterons quelques exemples
+concrets d'utilisation et montrerons comment cet objet, simple à mettre
+en oeuvre, peut porter atteinte à la confidentialité de chacun.
+
+<h4 class='subheader'>Julien L.</h4>
+
+Administrateur de systèmes UNIX et chercheur de vulnérabilités à temps
+partiel.
+
+[Site perso](http://vladz.devzero.fr)  · [Twitter](http://twitter.com/v14dz)
 
 
 ### Lightning Talks (5mn)
 
 #### 10 astuces git méconnues <small>par Boris Guéry</small>
+
+Quelques astuces que vous ne connaissez pas encore.
+
+#### Libconfig <small>par Manuel Minana</small>
+
+La librairie libconfig est une librairie open-source écrite en C qui lit et écrit des fichiers de configuration structurés.
+Elle a été conçue pour être performante et facilement utilisable. C'est une alternative mieux adaptée que le xml pour le logiciel embarqué.
+
+#### Des projets "différents" autour du code <small>par Cedric L'homme</small>
+
+Apprentissage collectif, enfants, tournois, etc.

@@ -19,6 +19,25 @@ Pour ce faire, voici ce qui est attendu de chacun:
  * Si le comportement d'une autre personne vous dérange, signalez-le au staff afin que nous puissions gérer l'incident tranquillement
  * Convivialité et bienveillance: tout le monde n'est pas spontanément à l'aise socialement. N'hésitez pas à aller accueillir et discuter avec les plus timides.
 
+
+## Le public</h2>
+
+Bien que ce soit des évènements dédiés aux développeurs, vous êtes tous les bienvenus. A chaque édition,
+des porteurs de projets, des graphistes, des ergonomes ou simples curieux nous
+témoignent du plaisir qu'ils ont pris à participer.
+
+N'hésitez pas à venir.
+
+### Accessibilité
+
+
+Nous tenons particulièrement à ce que personne ne reste à la porte. La Cantine by TVT est accessible aux
+personnes à mobilité réduite.
+Si vous êtes atteint d'un handicap, souhaitez assister à un évènement et avez des requêtes spécifiques,
+contactez-nous le plus tôt possible et on fera le maximum pour vous accueillir dans de bonnes conditions.
+
+Encore mieux, si vous avez un sujet de conf à présenter, on se fera un plaisir de vous donner la parole.
+
 ### Ailleurs
 
- Nous avons été inspirés par d'autres initiaves, notamment Clermont'ech et les Take Off Talks de Lille.
+Nous avons été inspirés par d'autres initiaves, notamment Clermont'ech et les Take Off Talks de Lille.
