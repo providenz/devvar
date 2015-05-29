@@ -11,11 +11,11 @@ Nous vous donnons donc rendez-vous le jeudi 9 octobre 2014 à 19H00, à la Canti
 
 Horaires: 19h00 - 22h00
 
+
 Cette édition est sponsorisée par :
 
 [![thebigbrainscompany.com/](/images/devvar6/logo-tbbc.png)](http://thebigbrainscompany.com/)
 
-Nous recherchons des propositions de conférences. [Lancez-vous !](/pages/participer.html)
 
 ### Conférences
 
@@ -35,6 +35,7 @@ il travaille depuis 13 ans, et est en charge des technologies Web liées
 aux appareils mobiles depuis 2007.
 
 <hr>
+
 #### l’Oculus Rift DK2  <small>par Manuel SEILHES</small>
 
 
@@ -53,6 +54,30 @@ Il est depuis 2008 le formateur informatique du centre pénitentiaire de TOULON 
 
 <hr>
 
+#### Lâchons le web et faisons du jeu ! <small> par Jean-Michel ARMAND</small>
+
+Et si on faisait autre chose que du web pour une fois ? Petite présentation d'un ou deux moyens de faire du jeu vidéo en python.
+
+<h4 class='subheader'>Jean-Michel Armand</h4>
+
+Djangonaute multiclassé commercial et chef d'entreprise, Jean-Michel est un geek orchestre qui lorsque qu'il ne peste après les retards de son TGV, aide à l'organisation de conférence, disserte sur les jeux vidéos ou achète des nom de domaines qu'il n'utilisera jamais.
+
+Grand amoureux des bières belges et du cassoulet, son tour de taille lui permet pour l'instant de ne pas se vêtir uniquement de braies
+à rayures et de profiter de sa collection de tee-shirts aux références cryptiques. Il paraîtrait qu'il est tombé dans un chaudron de potion magique étant petit et que grâce à cela, il a un talent rare pour lancer D20 et D100 (mais pas les menhirs).
+
+<hr>
+
+#### Elasticsearch, c'est encore plus que ça en a l'air. <small> par  Jérémy Lecour</small>
+
+Elasticsearch résonne souvent avec "recherche full-text" mais cette formidable base de données en a bien plus sous la capot qu'une belle interface autour du puissant Lucène. Vous découvrirez 2 cas d'usages différents, issus d'un project réel : de l'analyse de données,
+et de l'indexation/recherche en flux tendu.
+
+<h4 class='subheader'>Jérémy Lecour</h4>
+
+Jérémy est développeur web depuis plus de 12 ans, passionné par tout ce qui touche au web et toujours curieux de nouvelles choses à apprendre et utiliser pour le boulot ou les hobbies. Depuis 4 ans il guide une petite équipe qui utilise un gros mélange de technologies bien classiques ou toutes récentes, pour développer un site qui aide à la recherche et la réservation d'hôtel en ligne. Jérémy est facilitateur de Code Retreat et co-organisateur du Provence Linux User Group (PLUG) et du PastisRb (le groupe des utilisateurs de Ruby de Marseille).
+
+<hr>
+
 ### Lightning Talk
 
 #### Codingame <small> par Thibault Jochem</small>
@@ -66,3 +91,48 @@ Pour les entreprises, cette plateforme permet de repérer de nouveaux talents en
 Diplomé de l'EFREI en 2007, Thibault Jochem commence sa carrière d'ingénieur dans le jeux-vidéo sur Paris.
 En manque de soleil, il retourne dans le sud quelques années plus tard, pour continuer dans le domaine de la télévision numérique.
 Il est aussi le créateur de la Boite à Selfie, borne photo à impression instantanée.
+
+<hr>
+
+#### Startup Weekend Toulon
+
+
+Startup Weekend est un mouvement populaire mondial d'entrepreneurs actifs et autonomes qui apprennent les fondamentaux de la vie en startups. C'est la plus grande communauté d'entrepreneurs passionnés au monde, avec plus de 1200 événements passés dans plus de 100 pays à travers le monde en 2013.
+La première édition du Startup Weekend Toulon se déroulera du 21 au 23 Novembre 2014 à La Cantine by TVT, elle offre à ses participants un niveau sans précédent de mise en réseau, de construction d’équipe, d’apprentissage et de leçons de vie.
+Que les participants trouvent une entreprise, un co-fondateur, fassent de nouveaux contacts, ou découvrent un métier loin de leur quotidien, tout le monde est assuré de repartir de l'événement mieux préparé à naviguer dans le monde chaotique mais amusant des startups.
+
+L'entreprise de vos rêves n'existe pas, mais vous pouvez la créer en 54h !
+
+
+<h4 class='subheader'>L'équipe Startup Weekend Toulon</h4>
+
+Startup Weekend Toulon c'est une équipe de bénévoles passionnées par l'entrepreneuriat et l'innovation, souhaitant dynamiser l'écosystème Toulonnais en proposant une expérience startup unique le temps d'un weekend.
+
+[Site](http://www.swtln.fr)
+
+[Facebook](http:/www.facebook.com/StartupWeekendToulon)
+
+[Twitter](http://www.twitter.com/swtoulon)
+
+<hr>
+
+#### StealMyData <small> par Fedir Rykhtik</small>
+
+StealMyData est une application mobile , qui
+vous permet de vous faire dérober vos données personnelles sous votre
+controle totale en un seul clic. Cette présentation met l'accent
+sur les risques des fuites des données personnelles que l'on peut avoir
+en acceptant les demandes des permissions en installant des applications mobiles.
+
+<h4 class='subheader'>Fedir Rykhtik</h4>
+
+Fedir est un passionné open source et expert R&D à Stratis
+(Toulon), où il construit des applications Web pour les
+institutions publiques françaises. Il participe activement à plusieurs
+projets open source / culture ouverte.
+
+[Github](http://github.com/fedir)
+
+[Blog](http://fedir.github.io)
+
+[Twitter](http://twitter.com/FedirFr)

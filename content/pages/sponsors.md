@@ -8,7 +8,7 @@ Summary: sponsors
 
 Afin de financer l'apéritif communautaire de chaque réunion, nous faisons appel au sponsoring.
 
-Le montant nécessaire est de 100€, payables auprès de TVT, l'association qui nous porte.
+Le montant nécessaire est de 150€, payables auprès de TVT, l'association qui nous porte.
 
 ## Qu'est-ce que ça nous apporte de sponsoriser ?
 

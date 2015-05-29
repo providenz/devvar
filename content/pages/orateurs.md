@@ -25,7 +25,7 @@ Nous proposons 2 format:
 
 *‘‘Mais c'est court !’’*
 
-Oui, c'est une feature™. Vous pouvez ainsi présenter cotre sujet de manière synthétique, répondre aux questions et approfondir avec les particpants les plus intéressés lors de l'apéritif.
+Oui, c'est une feature™. Vous pouvez ainsi présenter votre sujet de manière synthétique, répondre aux questions et approfondir avec les participants les plus intéressés lors de l'apéritif.
 
 ## Comment proposer
 
@@ -33,7 +33,7 @@ Contactez-nous à ** orga at devvar point org ** en fournissant:
 
 * un titre de conférence et le format souhaité
 * un court descriptif (2-3 phrases)
-* une courte bio (2-3 pharses) avec des liens vers votre site, profil de réseau social
+* une courte bio (2-3 phrases) avec des liens vers votre site, profil de réseau social
 
 ## Licence
 

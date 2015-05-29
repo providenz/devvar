@@ -18,7 +18,8 @@ Pour ce faire, voici ce qui est attendu de chacun:
  * Language: pas de remarques, plaisanteries, critiques ou trolls qui pourraient être blessants
  * Si le comportement d'une autre personne vous dérange, signalez-le au staff afin que nous puissions gérer l'incident tranquillement
  * Convivialité et bienveillance: tout le monde n'est pas spontanément à l'aise socialement. N'hésitez pas à aller accueillir et discuter avec les plus timides.
-
+* Les questions se posent à la fin de l'intervention. N'interrompez pas les orateurs
+* Le planning est parfois chargé, quand les gentils organisateurs indiquent que c'est terminé, c'est terminé, notamment pour les questions. Le buffet est là pour aller échanger avec l'orateur.
 
 ## Le public</h2>
 

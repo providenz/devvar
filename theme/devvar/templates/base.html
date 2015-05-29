@@ -2,13 +2,15 @@
 <!--[if IE 8]>
 <html class="no-js lt-ie9" lang="fr"> <![endif]-->
 <!--[if gt IE 8]><!-->
-<html class="no-js" lang="en"> <!--<![endif]-->
+<html class="no-js" lang="fr">
+<!--<![endif]-->
 
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width">
-    <title>/dev/var</title>
-
+    {% block title %}
+    <title>/dev/var/</title>
+    {% endblock %}
 
     <link rel="stylesheet" href="/theme/css/{{ CSS_FILE }}"/>
 
@@ -27,7 +29,7 @@
 
     <section class="top-bar-section">
         <ul class="right">
-            {% for pg in PAGES %}
+            {% for pg in pages %}
             <li class="divider hide-for-small"></li>
             <li {% if pg == page %} class="active"{% endif %}>
             <a href="{{ SITEURL }}/{{ pg.url }}">{{ pg.title }}</a>
@@ -44,7 +46,7 @@
     </div>
 </div>
 <div class="main-header">
-    <img src="/static/images/devvar-banner.jpg" alt="Les développeurs varois se réunissent"/>
+    <img src="/images/devvar-banner.jpg" alt="Les développeurs varois se réunissent"/>
 </div>
 
 
@@ -56,17 +58,26 @@
 
 
     <div class="large-4 columns">
-        <h4>Suivez-nous sur twitter</h4>
-
+        <h4>Suivez-nous sur Twitter</h4>
         <p><a href="https://twitter.com/dev_var">@/dev/var</a></p>
+
+        <h4>Inscrivez-vous à notre newsletter</h4>
+        <p><a class="button" href="/pages/inscription.html">Inscrivez-vous</a></p>
+        <h4>Venez sur IRC</h4>
+        <p>#/dev/var sur <a href="https://freenode.net/">freenode</a></p>
+
+
         <h4>On y fait quoi</h4>
 
         <p>L'initiative /dev/var a pour vocation de permettre à des développeurs locaux de se réunir et d'échanger
             autour des technologies qu'ils utilisent en toute convivialité.</p>
+        <p>Concrètement, on écoute des orateurs sur des présentations plus ou moins techniques de 15 minutes chacune,
+            puis on en discute autour d'un buffet.</p>
+        <p> C'est vachement sympa il paraît.</p>
 
         <h4>Sujets abordés</h4>
 
-        <p>Les conférences ou ateliers sont proposés par les participant. <br>Nous acceptons les sujets relatifs au
+        <p>Les conférences ou ateliers sont proposés par les participants. <br>Nous acceptons les sujets relatifs au
             développement web, desktop, mobile, embarqué, sur technologies open source/libres ou propriétaires, les
             méthodologies et dans une moindre mesure l'ergonomie/expérience utilisateur et le design de
             produits/interfaces technologiques.
@@ -85,7 +96,7 @@
     </div>
 </div>
 <footer class="row">
-    <div class="large-4 columns">
+    <div class="large-3 columns">
         <h4>Initiatives similaires</h4>
         <ul class="no-bullet">
             <li><a href="http://www.brownbaglunch.fr">Brown Bag Lunch</a></li>
@@ -96,14 +107,14 @@
 
         </ul>
     </div>
-    <div class="large-4 columns">
+    <div class="large-3 columns">
         <h4>Partenaires</h4>
         <ul class="no-bullet">
             <li><a href="http://www.lacantine-toulon.org/">La Cantine by TVT (Toulon)</a></li>
             <li><a href="http://www.43117.tl/">43.117</a></li>
         </ul>
     </div>
-    <div class="large-4 columns">
+    <div class="large-3 columns">
         <h4>Copains</h4>
         <ul class="no-bullet">
             <li><a href="http://toulonux.org">Toulonux (Toulon)</a></li>
@@ -111,17 +122,24 @@
             <li><a href="http://tedxtoulon.com">TEDxToulon</a></li>
         </ul>
     </div>
+    <div class="large-3 columns">
+        <h4>Conférences</h4>
+        <ul class="no-bullet">
+            <li><a href="http://e1-conference.com">E1</a></li>
+        </ul>
+    </div>
 </footer>
 <div class="row" id="sub-footer">
     Sauf mention contraire, tout le contenu est sous licence creative commons CC-BY
 </div>
+
 <script>
     document.write('<script src=' +
-            ('__proto__' in {} ? 'js/vendor/zepto' : 'js/vendor/jquery') +
+            ('__proto__' in {} ? '/theme/js/vendor/zepto' : '/theme/js/vendor/jquery') +
             '.js><\/script>')
 </script>
 
-<script src="js/foundation.min.js"></script>
+<script src="/theme/js/foundation.min.js"></script>
 
 
 <script>

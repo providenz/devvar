@@ -12,7 +12,7 @@ Il y a eu un problème et quelques inscriptions n'avaient pas été prises en co
 Pour notre prochaine édition on repassera sur une plateforme d'inscription plus fiable.
 
 Une fois encore, un panel enthousiasmant d'orateurs de qualité a fait l'unanimité du public.
-Les retours que vous nous témoignez sont extremement gratifiants et nous encouragent à continuer à chaque édition pour proposer un évènement amical et qualitatif.
+Les retours que vous nous témoignez sont extrêmement gratifiants et nous encouragent à continuer à chaque édition pour proposer un évènement amical et qualitatif.
 Et comme on ne le dit jamais assez, souvenez-vous que /dev/var est non seulement un évènement ouvert à tous et
 harrassment-free mais que nous ferons notre maximum pour faciliter votre participation, notamment si vous êtes porteur d'un handicap.
 
@@ -48,8 +48,7 @@ Marie-Aude, probablement en impesanteur autour de l'ISS.
 #### Elasticsearch, c'est encore plus que ça en a l'air. <small> par  Jérémy Lecour</small>
 
 Elasticsearch est un datastore associé à un moteur de recherche et fait partie des rares projets faisant l'unanimité parmi les
-développeurs qui l'tuilisent. Jérémie nous a présenté avec enthousiame l'usage qui en fait à HotelHotel, et j'ai cru comprendre que quelques aprticpantys ony
-immédiatement envisagé des uses-case pour leurs projets
+développeurs qui l'tuilisent. Jérémie nous a présenté avec enthousiasme l'usage qui en fait à HotelHotel, et j'ai cru comprendre que quelques participants ont immédiatement envisagé des uses-case pour leurs projets.
 
 ![Dev Var 6](/images/devvar6/event/devvar6-6.jpg)
 
@@ -57,7 +56,7 @@ immédiatement envisagé des uses-case pour leurs projets
 
 #### Lâchons le web et faisons du jeu ! <small> par Jean-Michel ARMAND</small>
 
-Une intervention très vivante, avec toute la personalité (et les trolls) de Jean-michel qui est un habitué de la scène
+Une intervention très vivante, avec toute la personnalité (et les trolls) de Jean-Michel qui est un habitué de la scène
 de /dev/var sur les différentes options pour faire du jeu en python. Jean-Michel a notamment co-écrit
 un [livre libre](http://www.flossmanualsfr.net/blender-pour-le-jeu-video/) sur ce sujet.
 
@@ -69,13 +68,13 @@ un [livre libre](http://www.flossmanualsfr.net/blender-pour-le-jeu-video/) sur c
 
 #### Codingame <small> par Thibault Jochem</small>
 
-Une très chouette plateforme d'origine française pour apprendre et relever des chammenges de programmation autour du jeu.
+Une très chouette plateforme d'origine française pour apprendre et relever des challenges de programmation autour du jeu.
 
 [Slides](http://prezi.com/bvnmnyx7xsrv/codingame/)
 
 #### Startup Weekend Toulon
 
-Thomas et Laura organisent le premier [Startup-weekend de l'aire toulonnaise](http://www.up.co/communities/france/toulon/startup-weekend/4420),
+Thomas et Laura organisent le premier [startup-weekend de l'aire toulonnaise](http://www.up.co/communities/france/toulon/startup-weekend/4420),
 ça méritait bien un LT à /dev/var.
 
 ![Dev Var 6](/images/devvar6/event/devvar6-12.jpg)
@@ -85,22 +84,22 @@ Thomas et Laura organisent le premier [Startup-weekend de l'aire toulonnaise](ht
 
 Fedir nous a sensibilisé sur la récupération abusive de données personnelles par beaucoup d'applications mobiles, avec une approche humoristique réjouissante.
 
-[Slides]( https://github.com/fedir/fedir.github.com/blob/473563d117362f4dec5edd6a432b19ca99fbcd68/talks/dev/var/6/StealMyData.pdf?raw=true)
-
 ![Dev Var 6](/images/devvar6/event/devvar6-13.jpg)
+
+<script async class="speakerdeck-embed" data-id="4dbb2b003234013211277e9517789f50" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script>
 
 #### Retour sur 1cup <small> par Boris Guéry</small>
 
 Boris et ses amis sont à l'origine d'une initiative sympathique et utile pour les porteurs de projets en [quête
-d'experts techniques](http://1cup.io/). Sur ma demande, il a accepté de nous en parler
+d'experts techniques](http://1cup.io/). Sur ma demande, il a accepté de nous en parler.
 
 ![Dev Var 6](/images/devvar6/event/devvar6-14.jpg)
 
 
 ### L'apéro
 
-Pizza, canapés et surtout des échanges informels entre les participants. En une année, plusieurs missions et stages ont été
-attribuées à la suite de nos évènements.
+Pizza, canapés et surtout des échanges informels entre les participants. En une année, plusieurs missions et stages ont d'ailleurs été
+attribués à la suite de nos évènements.
 
 ![Dev Var 6](/images/devvar6/event/devvar6-15.jpg)
 

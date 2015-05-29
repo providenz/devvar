@@ -4,12 +4,12 @@ from __future__ import unicode_literals
 
 AUTHOR = u'Laurent'
 SITENAME = u'/dev/var'
-SITEURL = ''
+SITEURL = 'http://devvar.org'
 
 TIMEZONE = 'Europe/Paris'
 
 DEFAULT_LANG = u'fr'
-
+LOCALE = 'fr_FR'
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
 CATEGORY_FEED_ATOM = None
