@@ -88,6 +88,14 @@ Il est également membre de la Réserve Citoyenne de Cyberdefense et enseignant 
 
 ####  Introduction au machine learning <small>par Laurent Paoletti</small>
 
-Présentation d'un champ d'étude de l'intelligence artificielle qui permet à une machine de réaliser de l'analyse prédictive à parit de données
+Présentation d'un champ d'étude de l'intelligence artificielle qui permet à une algorithme de réaliser de l'analyse prédictive à partir de données
 d'apprentissage.
+
+<h4 class='subheader'>Laurent Paoletti </h4>
+
+Laurent est développeur indépendant.
+
+[Twitter](http://twitter.com/providenz)
+
+[Providenz ](http://providenz.fr)
 
