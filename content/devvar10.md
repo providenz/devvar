@@ -12,11 +12,10 @@ Nous vous donnons donc rendez-vous le mardi 9 juin 2015 à 19H00, à la Cantine 
 
 Horaires: 19h00 - 22h00
 
-Nous cherchons un [gentil sponsor](/pages/sponsoriser.html) pour offrir le buffet, contactez-nous !
 
-Nous avons besoin d'orateurs, tout est [expliqué là](pages/participer.html). Lancez-vous !
+Cette édition est sponsorisée par Stratis, un grand merci eux !
 
-
+[![www.w3.org](/images/devvar10/stratis.png)](http://www.stratis.fr/)
 
 
 
@@ -86,6 +85,8 @@ Il est également membre de la Réserve Citoyenne de Cyberdefense et enseignant 
 [Twitter ](http://twitter.com/cceresola)
 [Linkedin ]( http://fr.linkedin.com/pub/cyril-ceresola/1a/133/276)
 
+<hr>
+
 ####  Introduction au machine learning <small>par Laurent Paoletti</small>
 
 Présentation d'un champ d'étude de l'intelligence artificielle qui permet à une algorithme de réaliser de l'analyse prédictive à partir de données
@@ -93,9 +94,10 @@ d'apprentissage.
 
 <h4 class='subheader'>Laurent Paoletti </h4>
 
-Laurent est développeur indépendant.
+Laurent est développeur indépendant près de Toulon, et travaille principalement avec python et django.
 
 [Twitter](http://twitter.com/providenz)
 
 [Providenz ](http://providenz.fr)
+
 
