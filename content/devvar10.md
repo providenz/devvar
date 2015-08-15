@@ -100,4 +100,16 @@ Laurent est développeur indépendant près de Toulon, et travaille principaleme
 
 [Providenz ](http://providenz.fr)
 
+<hr>
 
+### Lightning talks
+
+####  Introduction à Docker <small>par Fedir Rykhtik</small>
+
+Introduction à docker, un outil pour empaqueter une application et ses dépendances dans un conteneur virtuel,
+qui pourra être exécuté sur n'importe quel ordinateur.
+
+<h4 class='subheader'>Fedir Rykhtik </h4>
+
+Fedir Rykhtik, directeur technique à Stratis (Toulon, France), ou il met en place des programmes de recherche et de développement,
+ coordonne le développement des sites Web en concordance avec les réglementations en matière de qualité, de sécurité et d'accessibilité.

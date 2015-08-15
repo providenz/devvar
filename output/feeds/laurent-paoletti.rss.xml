@@ -68,7 +68,17 @@ d'apprentissage.&lt;/p&gt;
 
 &lt;p&gt;Laurent est développeur indépendant près de Toulon, et travaille principalement avec python et django.&lt;/p&gt;
 &lt;p&gt;&lt;a href="http://twitter.com/providenz"&gt;Twitter&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="http://providenz.fr"&gt;Providenz &lt;/a&gt;&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Laurent Paoletti</dc:creator><pubDate>Tue, 28 Apr 2015 10:00:00 +0200</pubDate><guid>tag:devvar.org,2015-04-28:devvar10.html</guid></item><item><title>/dev/var/9 - Retour sur la soirée du 16 avril 2015</title><link>http://devvar.org/retour-devvar9.html</link><description>&lt;p&gt;Cette édition était sponsorisée par le W3DevCampus, W3C Developer Training.&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://providenz.fr"&gt;Providenz &lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+
+&lt;h3&gt;Lightning talks&lt;/h3&gt;
+&lt;h4&gt;Introduction à Docker &lt;small&gt;par Fedir Rykhtik&lt;/small&gt;&lt;/h4&gt;
+&lt;p&gt;Introduction à docker, un outil pour empaqueter une application et ses dépendances dans un conteneur virtuel,
+qui pourra être exécuté sur n'importe quel ordinateur.&lt;/p&gt;
+&lt;h4 class='subheader'&gt;Fedir Rykhtik &lt;/h4&gt;
+
+&lt;p&gt;Fedir Rykhtik, directeur technique à Stratis (Toulon, France), ou il met en place des programmes de recherche et de développement,
+ coordonne le développement des sites Web en concordance avec les réglementations en matière de qualité, de sécurité et d'accessibilité.&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Laurent Paoletti</dc:creator><pubDate>Tue, 28 Apr 2015 10:00:00 +0200</pubDate><guid>tag:devvar.org,2015-04-28:devvar10.html</guid></item><item><title>/dev/var/9 - Retour sur la soirée du 16 avril 2015</title><link>http://devvar.org/retour-devvar9.html</link><description>&lt;p&gt;Cette édition était sponsorisée par le W3DevCampus, W3C Developer Training.&lt;/p&gt;
 &lt;p&gt;&lt;a href="http://www.w3.org/"&gt;&lt;img alt="www.w3.org" src="/images/devvar9/W3C.png" /&gt;&lt;/a&gt;
 &lt;a href="http://www.w3devcampus.com/"&gt;&lt;img alt="www.w3devcampus.org" src="/images/devvar9/logo-w3devcampus.png" /&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img alt="/dev/var/9" src="/images/devvar9/devvar9-1.jpg" /&gt;&lt;/p&gt;
