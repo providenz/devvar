@@ -16,3 +16,20 @@ Nous cherchons un gentil sponsor pour offrir le buffet.
 
 Nous cherchons également des oratrices et orateurs.
  
+ 
+## Programme (en construction)
+
+### Conférences
+
+####  Magento sous le capot <small>par Nicolas Trossat</small>
+
+
+Présentation du fonctionnement de Magento, sa complexité, son potentiel, et ses limites. 
+Nous verrons également ce qui va changer avec Magento 2.
+
+<h4 class='subheader'>Nicolas Trossat</h4>
+
+Développeur Magento, fondateur de Boutik Circus, Mageconf, et la Chaise Libre, président d'Opengento. 
+Père de famille, voileux et traileur le reste du temps !
+
+Twitter :  [@ntrossat](http://twitter.com/ntrossat), blog :  [Boutikcircus](http://www.boutikcircus.com)
