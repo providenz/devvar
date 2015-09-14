@@ -33,3 +33,21 @@ Développeur Magento, fondateur de Boutik Circus, Mageconf, et la Chaise Libre, 
 Père de famille, voileux et traileur le reste du temps !
 
 Twitter :  [@ntrossat](http://twitter.com/ntrossat), blog :  [Boutikcircus](http://www.boutikcircus.com)
+
+<hr>
+
+#### ROS (Robotics Operating System) : un middleware utilisé en robotique <small>par Adrien Barral </small>
+
+Cette présentation démontre l'intérêt d'utiliser un Midleware, et notamment le design pattern "Publish Subscribe"
+lors du développement des applications embarquées dans les robots. ROS est un midleware (C++ / Python / Java ) 
+mettant en oeuvre ce design pattern. Je vais présenter par quelques exemples simples l'intérêt qu'apporte ce pattern 
+en terme de ré-utilisabilité et de testabilité en mettant l'accent sur le faible surcoût lié à l'utilisation 
+de cet outil.
+  
+<h4 class='subheader'>Adrien Barral</h4>
+
+Ingénieur en recherche et développement chez Robopec (Six Fours) depuis 6 ans, Adrien a travaillé 2 ans chez ECA (La Garde) 
+où il a fait des études sur le SLAM (Simultaneous Localization And Mapping pour des robots sous marin). 
+A Robopec il développe des logiciels pour des robots de toutes sortes (sous marin, bateau, cheniller, tracteurs ...).
+
+[google+](https://www.google.com/+AdrienBARRAL) - [Robopec](http://www.robopec.com)
