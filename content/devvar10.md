@@ -15,7 +15,7 @@ Horaires: 19h00 - 22h00
 
 Cette édition est sponsorisée par Stratis, un grand merci eux !
 
-[![www.w3.org](/images/devvar10/stratis.png)](http://www.stratis.fr/)
+[![www.stratis.fr](/images/devvar10/stratis.png)](http://www.stratis.fr/)
 
 
 

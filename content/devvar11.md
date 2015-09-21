@@ -12,9 +12,12 @@ Nous vous donnons donc rendez-vous le jeudi 8 octobre 2015 à 19H00, à la Canti
 
 Horaires: 19h00 - 22h00
 
-Nous cherchons un gentil sponsor pour offrir le buffet. 
+Cette édition sera sponsorisée par BoutikCircus, une agence varoise spécialisée sur Magento.
 
-Nous cherchons également des oratrices et orateurs.
+[![www.boutikcircus.com](/images/devvar11/boutikcircus.png)](http://www.boutikcircus.com/)
+
+
+Nous cherchons encore des oratrices et orateurs.
  
  
 ## Programme (en construction)
