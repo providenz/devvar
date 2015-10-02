@@ -10,6 +10,10 @@ La prochaine édition de /dev/var aura lieu le jeudi 8 octobre 2015.
 
 Nous vous donnons donc rendez-vous le jeudi 8 octobre 2015 à 19H00, à la Cantine by TVT, maison des technologies, à Toulon.
 
+#### Inscriptions gratuites mais obligatoires
+
+<a class="button" href="https://www.eventbrite.fr/e/billets-devvar11-rencontre-des-developpeurs-varois-17097136997">Inscriptions</a>
+
 Horaires: 19h00 - 22h00
 
 Cette édition sera sponsorisée par BoutikCircus, une agence varoise spécialisée sur Magento.
