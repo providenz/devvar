@@ -20,11 +20,8 @@ Cette édition sera sponsorisée par BoutikCircus, une agence varoise spécialis
 
 [![www.boutikcircus.com](/images/devvar11/boutikcircus.png)](http://www.boutikcircus.com/)
 
-
-Nous cherchons encore des oratrices et orateurs.
  
- 
-## Programme (en construction)
+## Programme
 
 ### Conférences
 
@@ -58,3 +55,22 @@ où il a fait des études sur le SLAM (Simultaneous Localization And Mapping pou
 A Robopec il développe des logiciels pour des robots de toutes sortes (sous marin, bateau, cheniller, tracteurs ...).
 
 [google+](https://www.google.com/+AdrienBARRAL) - [Robopec](http://www.robopec.com)
+
+<hr>
+
+#### L'api Push pour le web <small>par Dominique Hazael-Massieux  </small>
+
+ Les notifications push qui permettent aux applis natives de notifier
+ les utilisateurs en temps réel d'événements émis par des serveurs
+ d'applications font leur arrivée sur le Web, via l'API Push.
+
+<h4 class='subheader'>Dominique Hazael-Massieux</h4>
+Dominique Hazael-Massieux est un des 80 employés du W3C, où
+il travaille depuis 13 ans, et est en charge des technologies Web liées
+aux appareils mobiles depuis 2007. WebRTC est l'une des spécifications
+qu'il accompagne au sein du consortium.
+
+
+[Site](http://www.w3.org/People/Dom/) -
+[Linkedin](http://fr.linkedin.com/in/dominiquehazaelmassieux/) -
+[Twitter](https://twitter.com/dontcallmeDOM )
