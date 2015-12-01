@@ -10,15 +10,14 @@ La prochaine édition de /dev/var aura lieu le jeudi 10 décembre 2015
 
 Nous vous donnons donc rendez-vous le 10 décembre à 19H00, à la Cantine by TVT, maison des technologies et de l'innovation, à Toulon.
 
-#### Appel à propositions
+[Inscriptions gratuites mais obligatoires](http://www.eventbrite.fr/e/billets-devvar12-rencontre-des-developpeurs-varois-19654407863)
 
-Nous somme en quête d'oratrices et d'orateurs, [n'hésitez pas !](/pages/participer.html)
+Cette édition sera aimablement sponsorisée par  [Wooxo](http://www.wooxo.fr/)
 
-#### Appel à sponsors
+[![http://www.wooxo.fr/](/images/devvar12/wooxo.png)](http://www.wooxo.fr/)
 
-Nous cherchons également un gentil sponsor pour offrir le buffet. Intéréssé , [c'est par là.](/pages/sponsoriser.html)
 
-## Programme (en construction)
+## Programme
 
 #### Kézako Ergo ? <small>par Damien Lockner </small>
 
@@ -67,4 +66,27 @@ En bref, W3C Developers c'est:
 
 <h4 class='subheader'>Guillaume Baudusseau</h4>
 
-Guillaume fait partie du staff du World Wide Web Consortium.
+Guillaume fait partie du staff du World Wide Web Consortium (W3C).
+
+
+<hr>
+
+#### Développeur, donnez de l'amour à vos backups avec ElectricSheep.IO <small>par Fabrice Nourisson </small>
+Venez découvrir une nouvelle façon de faire des sauvegardes de vos
+serveurs de production avec [ESIO](http://www.electricsheep.io/).
+ESIO offre une solution centralisée, lisible, sécurisée, sans
+configuration des serveurs cibles et avec des notifications claires.
+En moins de 20 minutes, je me propose d'écrire le fichier de
+configuration d'ESIO pour la sauvegarde journalière d'un serveur et en
+toute sécurité en utilisant gpg.
+
+<h4 class='subheader'>Fabrice Nourisson</h4>
+
+Développeur hédoniste, ServeBox
+Fabrice Nourisson est agiliste depuis plus de 15 ans. Il a travaillé
+dans des entreprises de signalisation ferroviaire, de télécommunication
+et de développement Web en tant que développeur, chef de projet ou bien
+Agile QA leader. Il travaille actuellement chez ServeBox en tant que
+développeur hédoniste.
+
+[Twitter](https://twitter.com/duckmole)
