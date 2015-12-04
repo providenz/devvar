@@ -82,7 +82,6 @@ toute sécurité en utilisant gpg.
 
 <h4 class='subheader'>Fabrice Nourisson</h4>
 
-Développeur hédoniste, ServeBox
 Fabrice Nourisson est agiliste depuis plus de 15 ans. Il a travaillé
 dans des entreprises de signalisation ferroviaire, de télécommunication
 et de développement Web en tant que développeur, chef de projet ou bien
