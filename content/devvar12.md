@@ -89,3 +89,22 @@ Agile QA leader. Il travaille actuellement chez ServeBox en tant que
 développeur hédoniste.
 
 [Twitter](https://twitter.com/duckmole)
+
+<hr>
+
+#### Le projet FAT python <small>par Victor Stinner </small>
+
+Python est langage de programmation difficile à optimiser, encore
+plus que les autres langages de script, notamment parce que *tout* est
+modifiable dans Python. Nous allons voir comment l'ajout de "gardes"
+testés à l'exécution permet d'implémenter des optimisations sans
+casser la sémantique du langage Python.
+
+<h4 class='subheader'>Victor Stinner</h4>
+
+Core développeur Python depuis 2010, Victor est
+l'auteur de diverses applications et bibliothèques Python librement
+partagées sur Bitbucket et Github. Il est actuellement employé par
+Red Hat pour travailler sur le projet OpenStack.
+
+[FAT Python](http://faster-cpython.readthedocs.org/fat_python.html)
