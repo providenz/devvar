@@ -10,8 +10,6 @@ La prochaine édition de /dev/var aura lieu le jeudi 10 décembre 2015
 
 Nous vous donnons donc rendez-vous le 10 décembre à 19H00, à la Cantine by TVT, maison des technologies et de l'innovation, à Toulon.
 
-[Inscriptions gratuites mais obligatoires](http://www.eventbrite.fr/e/billets-devvar12-rencontre-des-developpeurs-varois-19654407863)
-
 Cette édition sera aimablement sponsorisée par  [Wooxo](http://www.wooxo.fr/)
 
 [![http://www.wooxo.fr/](/images/devvar12/wooxo.png)](http://www.wooxo.fr/)
