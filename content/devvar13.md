@@ -1,4 +1,4 @@
-Title: /dev/var/13 - Mars 2015
+Title: /dev/var/13 - Mars 2016
 Date: 2016-03-01 07:00
 Category: Reunion
 Slug: devvar13
@@ -6,7 +6,7 @@ Author: Laurent Paoletti
 Summary: /dev/var/13
 
 
-La prochaine édition de /dev/var aura lieu le jeudi 24 mars 2015
+La prochaine édition de /dev/var aura lieu le jeudi 24 mars 2016
 
 Nous vous donnons donc rendez-vous le 24 mars à 19H00, à la Cantine by TVT, maison des technologies et de l'innovation, à Toulon.
 

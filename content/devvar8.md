@@ -121,7 +121,7 @@ Et pour ceux qui ne s'en typent^W tapent pas, nous verrons leurs enjeux dans nos
 
 <h4 class='subheader'>Gautier di Folco</h4>
 
-Gautier développe depuis plus de 12 ans et je se passionne par les différentes approches de notre domaine comme les paradigmes de programmation (orienté objet, fonctionnelle, logique, à acteurs).
+Gautier développe depuis plus de 12 ans et se passionne par les différentes approches de notre domaine comme les paradigmes de programmation (orienté objet, fonctionnelle, logique, à acteurs).
 
 [Twitter](http://twitter.com/gautier_difolco)
 
