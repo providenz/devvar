@@ -9,7 +9,7 @@ SITEURL = 'http://devvar.org'
 TIMEZONE = 'Europe/Paris'
 
 DEFAULT_LANG = u'fr'
-LOCALE = 'fr_FR'
+LOCALE = 'fr_FR.UTF-8'
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
 CATEGORY_FEED_ATOM = None
