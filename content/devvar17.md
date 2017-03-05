@@ -35,3 +35,16 @@ Père de famille, voileux et traileur le reste du temps !
 Twitter :  [@ntrossat](http://twitter.com/ntrossat), blog :  [Boutikcircus](http://www.boutikcircus.com)
 
 <hr>
+
+
+#### Action Sensor <small>par Melvin Paz</small>
+
+Ce projet est tourné autour du BasketBall : à chaque panier marqué, un gif/video de l’action est généré et envoyé sur les réseaux sociaux en instantané. L'intervention présentera un retour d’expérience sur les aventures des créateurs depuis le startup Weekend Marseille de mai 2016 (SWAM) jusqu’à aujourd'hui
+
+<h4 class='subheader'>Melvin PAZ </h4>
+
+Melvin est un passionné de nouvelles technologies et rien ne
+l'arrête. Il a un parcours atypique en passant de la programmation de
+machine numérique jusqu'à Technicien Informatique et audio-visuel.
+Startupeur dans l'âme, il lance le projet Action Sensor avec Philippe
+Missout. 
