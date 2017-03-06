@@ -47,4 +47,17 @@ Melvin est un passionné de nouvelles technologies et rien ne
 l'arrête. Il a un parcours atypique en passant de la programmation de
 machine numérique jusqu'à Technicien Informatique et audio-visuel.
 Startupeur dans l'âme, il lance le projet Action Sensor avec Philippe
-Missout. 
+Missout.
+
+<hr>
+
+#### Ubuntu-core & les snaps <small>par Thibault Jochem</small>
+
+Ubuntu Core est une version légère et transactionnelle d'Ubuntu qui cible les objets connectés et les serveurs. Ubuntu Core est basée sur un nouveau format d'applications, les snaps, qui sont sécurisés, permettent les mise à jour atomiques et multi-platforme.
+
+<h4 class='subheader'>Thibault Jochem</h4>
+
+Diplomé en 2007 de l'EFREI en ingénierie informatique, Thibault a exercé pendant plusieurs années dans les jeux vidéos,
+la télévisions numérique, les réseaux sociaux puis en 2015, la robotique marine.
+Depuis 2014 il développe également la Boite à Selfie, une borne photo connectée à impression instantanée.
+
