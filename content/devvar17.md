@@ -61,3 +61,14 @@ Diplomé en 2007 de l'EFREI en ingénierie informatique, Thibault a exercé pend
 la télévisions numérique, les réseaux sociaux puis en 2015, la robotique marine.
 Depuis 2014 il développe également la Boite à Selfie, une borne photo connectée à impression instantanée.
 
+<hr>
+
+#### Présentation du Clusir PACA  <small>par Stéphane Claisse & Cyril Cérésola </small>
+
+Le CLUSIR PACA (Club de la Sécurité des Systèmes d’Information Régional) lance une antenne à TOULON.
+
+Depuis plusieurs années le CLUSIR a pour vocation de rassembler les différents acteurs locaux  concernés par la cyber securite (utilisateurs, institutions, entreprises) en leur proposant des temps d'échange et des événements (conférences, after work, ateliers,...)
+
+Après Marseille et Nice, c'est la région Toulonnaise qui va disposer désormais de son CLUSIR spécifique. 
+
+Membre du réseau thématique French Tech "Security & Privacy", le CLUSIR PACA vient présenter ses activités et ses projets toulonnais. 
