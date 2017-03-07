@@ -12,7 +12,7 @@ Nous vous donnons donc rendez-vous le 9 mars à 19H00, à la Cantine by TVT, mai
 
  ** Inscriptions gratuites mais obligatoires **
 
-<a class="button" href="devvar17.eventbrite.fr">Inscrivez-vous</a>
+<a class="button" href="http://devvar17.eventbrite.fr">Inscrivez-vous</a>
 
  Cette édition est sponsorisée par l'agence Merci+, un grand merci à eux !
 
