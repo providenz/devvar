@@ -16,7 +16,7 @@ Nous vous donnons donc rendez-vous le 9 mars à 19H00, à la Cantine by TVT, mai
 
  Cette édition est sponsorisée par l'agence Merci+, un grand merci à eux !
 
-![merci plus](/images/devvar17/merci_plus.jpg)]
+![merci plus](/images/devvar17/merci_plus.jpg)
 
 ## Programme
 
