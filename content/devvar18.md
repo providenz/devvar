@@ -27,5 +27,15 @@ Le talk parlera de l'informatique (infrastructure, logiciels) qui a été mise e
 
 Karim est ingénieur de recherche en informatique au CNRS à la Division Technique de l'[INSU](http://www.dt.insu.cnrs.fr). Il travaille à La Seyne sur Mer principalement sur des projets pour des laboratoires de l'Institut National des Sciences de l'Univers mais il gère aussi l'informatique pour les gliders. 
 
-
 <hr>
+
+#### Introduction au Machine Learning  <small> par Alexandre Roy </small>
+
+ Découvrez ce qui se cache réellement derrière le Machine Learning ainsi que sa mise en application au travers de la plateforme Microsoft Azure et le Machine Learning Studio. 
+
+
+<h4 class='subheader'>Alexandre Roy</h4>
+
+Alexandre est en dernière année d’école d’ingénieur à l’ISEN Toulon. Il a été sélectionné par Microsoft pour représenter l’entreprise au sein de son campus et son entourage en tant que Microsoft Student Partner.
+ 
+[Site](http://about.me/alexandreroy) - [Twitter](https://twitter.com/aroy314)
