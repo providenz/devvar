@@ -12,6 +12,11 @@ Nous vous donnons donc rendez-vous le 23 mai à 19H00, à la Cantine by TVT, mai
 L'appel à propositions est ouvert, allez voir [cette page](http://devvar.org/pages/participer.html) pour plus d'info.
 
 
+ Cette édition est sponsorisée par [Micro Be](http://www.micro-be.com/), un grand merci à eux !
+
+[![Micro Be](/images/devvar18/micro_be.jpg)](http://www.micro-be.com/)
+]
+
 ## Programme
 
 ### Conférences
