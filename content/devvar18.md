@@ -17,6 +17,10 @@ L'appel à propositions est ouvert, allez voir [cette page](http://devvar.org/pa
 [![Micro Be](/images/devvar18/micro_be.jpg)](http://www.micro-be.com/)
 ]
 
+ ** Inscriptions gratuites mais obligatoires **
+
+<a class="button" href="http://devvar18.eventbrite.fr">Inscrivez-vous</a>
+
 ## Programme
 
 ### Conférences
