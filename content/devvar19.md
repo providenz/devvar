@@ -9,7 +9,13 @@ La prochaine édition de /dev/var aura lieu le jeudi 19 octobre 2017.
 
 Nous vous donnons donc rendez-vous le 19 octobre à 19H00, à la Cantine by TVT, maison des technologies et de l'innovation, à Toulon.
 
-L'appel à propositions est ouvert, allez voir [cette page](http://devvar.org/pages/participer.html) pour plus d'info.
+https://www.eventbrite.fr/e/billets-devvar19-rencontre-des-developpeurs-varois-37246392964
+
+
+ ** Inscriptions gratuites mais obligatoires **
+
+<a class="button" href="https://www.eventbrite.fr/e/billets-devvar19-rencontre-des-developpeurs-varois-37246392964">Inscrivez-vous</a>
+
 
 ## Programme
 
