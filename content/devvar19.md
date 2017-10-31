@@ -7,10 +7,7 @@ Summary: /dev/var/19
 
 La prochaine édition de /dev/var aura lieu le jeudi 19 octobre 2017.
 
-Nous vous donnons donc rendez-vous le 19 octobre à 19H00, à la Cantine by TVT, maison des technologies et de l'innovation, à Toulon.
-
-https://www.eventbrite.fr/e/billets-devvar19-rencontre-des-developpeurs-varois-37246392964
-
+Nous vous donnons donc rendez-vous le 19 octobre à 19H00, au 6e étage de la Maison des technologies et de l'innovation, à Toulon.
 
  ** Inscriptions gratuites mais obligatoires **
 
@@ -65,3 +62,25 @@ Fedir est directeur technique chez Stratis (agence spécialisée dans le secteur
 [Twitter](https://twitter.com/fedirfr)
 
 <hr>
+
+
+#### Gestion d'entreprise avec l'ERP libre Tryton <small>par Dominique Chabord</small>
+
+Tryton est un logiciel libre de type ERP. Il est disponible
+gratuitement et peut rendre des services aux petites entreprises et
+startup.
+C'est aussi un développement communautaire auquel des développeurs
+chevronnés peuvent contribuer librement.
+Les entrepreneurs créatifs peuvent imaginer des utilisations nouvelles
+d'un logiciel ERP libre en l'intégrant dans leurs produits ou services.
+
+<h4 class='subheader'>Dominique Chabord</h4>
+
+Ingénieur. Activité d'hébergement en grand nombre des ERP Tryton et
+Odoo pour les indépendants, les TPE et les PME depuis 2008,
+Hébergement des services ERP pour les lycées professionnels et
+technologiques. Hébergement du Mooc ERP pour France Université
+Numérique. Membre de la communauté Tryton depuis la création du projet
+en 2007.
+
+[Sisalp](https://sisalp.fr/) - [Twitter](https://twitter.com/SISalp)
