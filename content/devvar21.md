@@ -13,3 +13,16 @@ Nous cherchons un gentil sponsor pour financer l'apéro de cette édition. [Plus
 
 L'appel à interventions est ouvert, oratrices et orateurs, on vous attend! [Plus d'infos](/pages/participer.html)
 
+## Programme
+
+#### Introduction au SDK de réalité augmentée Wikitude <small>par Thibault Jochem</small>
+
+Durant cette présentation, Thibault vous présentera comment développer une application multi-plateforme de réalité augmentée en utilisant le SDK de Wikitude. Au programme tracking d'image, d'objets, et de plans (ARKit, ARCore, Wikitude SLAM).
+
+<h4 class='subheader'>Thibault Jochem</h4>
+Ingénieur logiciel depuis 2007, Thibault a écumé les domaines du jeux vidéos, de la télévision numérique, des réseaux sociaux et de la robotique sous-marine. Fin 2017, nouveau tournant dans sa carrière en intégrant Wikitude société éditrice d'un SDK de réalité augmenté.
+C'est aussi le créateur de La Boite à Selfie, borne photo connectée à impression instantannée.
+
+[Twitter](https://twitter.com/tryumk)
+
+<hr>
