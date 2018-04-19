@@ -1,4 +1,4 @@
-Title: /dev/var/21 - Février 2017
+Title: /dev/var/21 - Février 2018
 Date: 2019-01-20 22:00
 Category: Reunion
 Slug: devvar21
@@ -9,7 +9,10 @@ La prochaine édition de /dev/var aura lieu le mardi 27 février 2018.
 
 Nous vous donnons donc rendez-vous le mardi 27 février à 19H00, à la Maison des technologies et de l'innovation, à Toulon.
 
+Les [inscriptions sont ouvertes](https://www.eventbrite.fr/e/billets-devvar21-rencontre-des-developpeurs-varois-41377890384?aff=ehomecard), veillez à vous inscrire.
+
 Nous cherchons un gentil sponsor pour financer l'apéro de cette édition. [Plus d'infos](/pages/sponsoriser.html)
+
 
 L'appel à interventions est ouvert, oratrices et orateurs, on vous attend! [Plus d'infos](/pages/participer.html)
 
